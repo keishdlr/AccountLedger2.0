@@ -56,7 +56,3 @@ mvn exec:java -Dexec.mainClass="com.pluralsight.AccountLedgerApp"
 * `src/main/java/com/pluralsight`: Contains the core Java source code.
 * `pom.xml`: Defines dependencies and build configurations.
 * `transactions.csv`: (Generated) The data file where all ledger entries are stored.
-
----
-
-Would you like me to help you draft a specific "How to Use" section based on the exact methods in your `src` folder?

@@ -1,9 +1,3 @@
-It looks like you’ve started a forked repository for the **Account Ledger 2.0** project. Since the current [repository](https://github.com/keishdlr/AccountLedger2.0) doesn't have a description yet, I've drafted a comprehensive `README.md` based on the file structure (Java, Maven/pom.xml, and Pluralsight package naming).
-
-You can copy and paste the following content into a new file named `README.md` in your [main branch](https://github.com/keishdlr/AccountLedger2.0/branches).
-
----
-
 # Account Ledger 2.0
 
 A Java-based financial application designed to help users track and manage their personal or business transactions. This project was developed as part of the [Pluralsight](https://github.com/keishdlr/AccountLedger2.0/tree/main/src/main/java/com/pluralsight) curriculum to demonstrate proficiency in object-oriented programming and file I/O operations.
